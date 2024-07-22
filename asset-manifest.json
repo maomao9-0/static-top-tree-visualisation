@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/static-top-tree-visualisation/static/css/main.9b8a573c.css",
+    "main.js": "/static-top-tree-visualisation/static/js/main.0b304db8.js",
+    "index.html": "/static-top-tree-visualisation/index.html",
+    "main.9b8a573c.css.map": "/static-top-tree-visualisation/static/css/main.9b8a573c.css.map",
+    "main.0b304db8.js.map": "/static-top-tree-visualisation/static/js/main.0b304db8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b8a573c.css",
+    "static/js/main.0b304db8.js"
+  ]
+}
